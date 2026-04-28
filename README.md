@@ -1,5 +1,8 @@
 # Go Metrics
 
+> [!CAUTION]
+> go-metrics is now part of the [go-foundation](https://github.com/mirkobrombin/go-foundation) framework. The v1.0.0 release mirrors go-metrics v0.1.0, but future versions may introduce breaking changes. Please migrate your project.
+
 A tiny **counter abstraction** for Go applications that want a simple in-memory implementation and a clean adapter surface.
 
 ## Features
